@@ -32,11 +32,18 @@ wget https://github.com/Raka1818/visual-studio-code/archive/refs/tags/cwm_v1.0.0
 tar -xvf ./cwm_v1.0.0.tar.gz
 ```
 ```bash
-cd cwm_v1.0.0
+cd visual-studio-code-cwm_v1.0.0
+```
+```bash
+./chmod +x cwm.sh
 ```
 ```bash
 ./cwm.sh
 ```
+
+
+
+
 
 ## Authors
 
