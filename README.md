@@ -15,18 +15,18 @@
 
 
 
-open userland and install ubuntu,
+open userland and install ubuntu,and then type commands bellow
 
 
 ```bash
-  apt install git
+apt install git
 ```
-   ```bash
- apt install wget
+```bash
+apt install wget
 
 ``` 
 ```bash
- wget https://github.com/cdr/code-server/releases/download/v4.6.0/code-server-4.6.0-linux-arm64.tar.gz
+wget https://github.com/cdr/code-server/releases/download/v4.6.0/code-server-4.6.0-linux-arm64.tar.gz
 ```
 
 ## Authors
