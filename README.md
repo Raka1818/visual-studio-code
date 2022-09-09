@@ -26,10 +26,10 @@ apt install wget
 
 ``` 
 ```bash
-wget https://github.com/Raka1818/visual-studio-code/archive/refs/tags/v1.0.0.tar.gz
+wget https://github.com/Raka1818/visual-studio-code/archive/refs/tags/cwm_v1.0.0.tar.gz
 ```
 ```bash
-tar -xvf ./visual-studio-code-1.0.0.tar.gz
+tar -xvf ./cwm_v1.0.0.tar.gz
 ```
 ## Authors
 
