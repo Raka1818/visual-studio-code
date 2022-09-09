@@ -31,6 +31,13 @@ wget https://github.com/Raka1818/visual-studio-code/archive/refs/tags/cwm_v1.0.0
 ```bash
 tar -xvf ./cwm_v1.0.0.tar.gz
 ```
+```bash
+cd cwm_v1.0.0
+```
+```bash
+./cwm.sh
+```
+
 ## Authors
 
 - [@cwh](https://github.com/Raka1818/visual-studio-code)
