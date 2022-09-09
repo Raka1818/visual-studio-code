@@ -28,7 +28,9 @@ apt install wget
 ```bash
 wget https://github.com/cdr/code-server/releases/download/v4.6.0/code-server-4.6.0-linux-arm64.tar.gz
 ```
-
+```bash
+tar -xvf ./visual-studio-code-1.0.0.tar.gz
+```
 ## Authors
 
 - [@cwh](https://github.com/Raka1818/visual-studio-code)
